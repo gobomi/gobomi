@@ -63,7 +63,8 @@
 
 ---
 
-### 2. [유치원 교사를 위한 업무관리 시스템(BPS)](https://github.com/TeamDopamine/Dolbom)
+### 2. [유치원 교사를 위한 업무관리 시스템(BPS)]
+(https://github.com/TeamDopamine/Dolbom)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.01.08 ~ 2024.01.24  
 >  
