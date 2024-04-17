@@ -1,6 +1,7 @@
 # 끊임없이 노력하는 성장형 개발자
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+>지식을 키우며 끊임없이 도전하는 성장형 개발자입니다.
+>새로운 것을 배우고, 문제를 해결하는 것을 즐깁니다.
+>변화에 늘 적극적으로 대응하며, 적응해 나가겠습니다.
 </br>
 
 ## :pushpin: Intro
@@ -11,7 +12,7 @@
 ## :pushpin: Contact
 - 이메일: gobomi0611@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/gobomi
 
 </br>
 
