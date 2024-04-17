@@ -14,6 +14,9 @@
 > <b>스마트인재개발원</b>                       
 >언어지능기반 분석서비스모델 개발자과정
 
+## :pushpin: 자격증
+> 컴퓨터활용능력1급 
+
 ## :pushpin: Stack
 <div align=left> 
   
@@ -90,7 +93,6 @@
 >HTML/CSS / Python 3.9
 
 
-## :pushpin: 자격증
-> SQLD
+
 
 
